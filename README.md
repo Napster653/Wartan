@@ -1,3 +1,3 @@
-# Antilope
+# Wartan
 
-https://napster653.github.io/Antilope/
+https://napster653.github.io/Wartan/
