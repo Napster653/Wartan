@@ -1,5 +1,5 @@
 body{
-    background-color: #494949;
+    background-color: #e2e2e2;
 }
 table {
     width: 75%;
@@ -27,5 +27,5 @@ table tr td table tr th img{
 }
 table tr td table tr td{
     border: 1px solid gray;
-    background-color: #494949;
+    background-color: #e2e2e2;
 }
