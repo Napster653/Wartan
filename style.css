@@ -25,6 +25,10 @@ table tr td table tr th{
 table tr td table tr th img{
     max-width: 70px;
 }
+
+table tr td table tr th .clan{
+    max-height: 30px;
+}
 table tr td table tr td{
     border: 1px solid gray;
     background-color: #494949;
