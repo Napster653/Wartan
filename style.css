@@ -1,5 +1,5 @@
 body{
-    background-color: #e2e2e2;
+    background-color: #494949;
 }
 table {
     width: 75%;
@@ -27,14 +27,15 @@ table tr td table tr th img{
 }
 table tr td table tr td{
     border: 1px solid gray;
-    background-color: #e2e2e2;
+    background-color: #494949;
 }
 
 table tr td .disabled tr th{
-    border: 1px solid gray;
-    background-color: #666666;
+    background-color: #00000066;
+    color: #494949;
 }
 table tr td .disabled tr td{
-    border: 1px solid gray;
-    background-color: #666666;
+    border: 1px solid #494949;
+    background-color: #00000066;
+    color: #494949;
 }
