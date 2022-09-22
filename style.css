@@ -29,3 +29,12 @@ table tr td table tr td{
     border: 1px solid gray;
     background-color: #e2e2e2;
 }
+
+table tr td .disabled tr th{
+    border: 1px solid gray;
+    background-color: #666666;
+}
+table tr td .disabled tr td{
+    border: 1px solid gray;
+    background-color: #666666;
+}
