@@ -11,6 +11,9 @@ body div div img.clan_selector {
 table {
     width: 75%;
 }
+.convoy tr td table tr th {
+    font-size: 1em;
+}
 
 table tr {}
 
