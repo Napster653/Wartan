@@ -12,6 +12,11 @@ table tr td {
     vertical-align: top;
 }
 
+table tr td table.special{
+    margin: 3px;
+    width: 300px;
+}
+
 table tr td table {
     margin: 3px;
     width: 150px;
