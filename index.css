@@ -30,6 +30,13 @@ table tr td table tr th {
     font-weight: 700;
 }
 
+table.convoy tr td table tr th {
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    font-size: 1em;
+}
+
 table tr td table tr th img {
     max-width: 70px;
 }
