@@ -5,6 +5,9 @@ body {
 table {
     width: 75%;
 }
+table.convoy {
+    width: 90%;
+}
 
 table tr {}
 
@@ -14,7 +17,7 @@ table tr td {
 
 table tr td table.special{
     margin: 3px;
-    width: 300px;
+    width: 250px;
 }
 
 table tr td table {
