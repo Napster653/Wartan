@@ -29,13 +29,12 @@ table tr td table tr {}
 
 table tr td table tr th {
     text-align: center;
-    font-size: large;
     font-weight: 700;
+    font-size: 1em;
 }
 
 table.convoy tr td table tr th {
     text-align: center;
-    font-size: large;
     font-weight: 700;
     font-size: 1em;
 }
