@@ -20,6 +20,11 @@ table tr td table.special{
     width: 250px;
 }
 
+table tr td table.special_2{
+    margin: 3px;
+    width: 500px;
+}
+
 table tr td table {
     margin: 3px;
     width: 150px;
